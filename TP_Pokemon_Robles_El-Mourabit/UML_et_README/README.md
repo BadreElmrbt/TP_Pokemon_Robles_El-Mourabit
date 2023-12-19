@@ -1,6 +1,4 @@
-# Création du fichier README.md avec les instructions fournies par l'utilisateur
-
-### Guide d'Utilisation: Jeu Pokémon (Version Serveur-Client)
+# Guide d'Utilisation: Jeu Pokémon (Version Serveur-Client)
 
 #### Présentation
 Ce programme est une implémentation serveur-client d'un jeu Pokémon. Il permet à des joueurs de se connecter à un serveur, d'engager des combats Pokémon, et de gérer leurs dresseurs et leurs Pokémon.
